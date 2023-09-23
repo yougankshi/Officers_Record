@@ -76,7 +76,7 @@ public class SHOW_RECORDS extends javax.swing.JPanel {
 
         add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 210, 1040, 200));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\welcome\\Desktop\\19308_21.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\welcome\\Desktop\\AIRCRAFT2.jpg")); // NOI18N
         add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(-6, 0, 1270, 740));
     }// </editor-fold>//GEN-END:initComponents
 
