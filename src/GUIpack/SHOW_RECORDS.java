@@ -11,8 +11,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import javax.swing.table.DefaultTableModel;
-import static org.omg.CORBA.AnySeqHelper.id;
-import static org.omg.CORBA.BooleanSeqHelper.id;
 
 /**
  *
